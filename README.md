@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nihileon&show_icons=true&line_height=40&icon_color=0366d6&bg_color=ffffff&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats" />
+<a href="https://github.com/Nihileon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nihileon&show_icons=true&line_height=40&icon_color=0366d6&bg_color=ffffff&hide_title=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Nihileon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihileon&count_private=true&hide_title=true&hide=html,css" />
 </a>
 
