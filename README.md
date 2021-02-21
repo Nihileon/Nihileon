@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nihileon&show_icons=true&include_all_commits=true&hide_title=true&count_private=true" />
 </a>
 <a href="https://github.com/Nihileon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihileon&count_private=true&layout=compact&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihileon&count_private=true&layout=compact&langs_count=6&exclude_repo=6.824-2018" />
 </a>
 
 <!-- 
