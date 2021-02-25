@@ -19,9 +19,10 @@
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/apache_rocketmq/apache_rocketmq-icon.svg" alt="rocketmq" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/rocksdb/rocksdb-icon.svg" alt="rocksdb" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/apache_rocketmq/apache_rocketmq-icon.svg" alt="rocketmq" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
