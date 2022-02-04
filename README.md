@@ -18,7 +18,7 @@
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/rocksdb/rocksdb-icon.svg" alt="rocksdb" width="40" height="40"/> 
-  <img src="https://flink.apache.org/img/logo/png/50/color_50.png" alt="flink" width="40" height="40"/> 
+  <img src="https://flink.apache.org/img/logo/png/200/flink_squirrel_200_color.png" alt="flink" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/apache_rocketmq/apache_rocketmq-icon.svg" alt="rocketmq" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
