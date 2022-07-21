@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning storage engines.
+- 🤔 Here's [my resume](https://github.com/Nihileon/Nihileon/blob/master/resume.pdf).
 
 ### Languages:
 
