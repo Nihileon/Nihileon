@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning storage engines.
+- 🌱 I’m currently a software engineer at Intel.
 - 🤔 Here's [my resume](https://github.com/Nihileon/Nihileon/blob/master/resume.pdf).
 
 ### Languages:
