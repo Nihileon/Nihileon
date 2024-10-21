@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently a software engineer at Intel.
+- 🌱 I’m currently a software engineer at Confluent.
 - 🤔 Here's [my resume](https://github.com/Nihileon/Nihileon/blob/master/resume.pdf).
 
 ### Languages:
